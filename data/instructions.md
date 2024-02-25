@@ -19,3 +19,11 @@ Instructions to be followed :
 10	Beta-HCG cases are mentioned as Case I and II , repeat the previous one if only one exist.					
 11	In case sparing a blank space kindly fill the cell with red colour					
 12	If the patient is PCOS Fill the cell with green colour for easier reference					
+
+### Citation
+author = {Prasoon Kottarathil},
+title = {Polycystic ovary syndrome (PCOS)},
+year = {2020},
+publisher = {kaggle},
+journal = {Kaggle Dataset},
+how published = {\url{https://www.kaggle.com/prasoonkottarathil/polycystic-ovary-syndrome-pcos}}
