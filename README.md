@@ -5,3 +5,5 @@ Polycystic ovary syndrome is a disorder involving infrequent, irregular or prolo
 dataset contains all physical and clinical parameters to determine PCOS and infertility related issues .  
 
 ![image](https://github.com/ShatilKhan/pcos-taipy-db/assets/52494840/2d1ef243-a282-4602-932d-62dbec87943d)
+
+***Note: The project is still under development & I am working on adding more features***
